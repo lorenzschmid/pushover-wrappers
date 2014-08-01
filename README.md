@@ -1,5 +1,5 @@
-*matlab2pushover*
+*pushover-wrappers*
 
-This is a simple Matlab function for calling the Pushover API.
+Simple functions for calling the Pushover API from Matlab and Python
 
 Note: enter your API Token & User key before use.
