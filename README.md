@@ -1,5 +1,8 @@
-*pushover-wrappers*
+# matlab2pushover
 
-Simple functions for calling the Pushover API from Matlab and Python
+Simple function for calling the Pushover API from Matlab.
+Requires Internet connection and Matlab version R2015a or higher.
 
-Note: enter your API Token & User key before use.
+## Configuration
+
+Enter your API Token and User Key in the function code before use.
